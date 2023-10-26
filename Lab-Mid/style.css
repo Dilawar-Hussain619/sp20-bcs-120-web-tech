@@ -1,0 +1,37 @@
+.nav-color {
+  background-color: #18254a;
+}
+
+.green-color {
+  background-color: #51a644;
+}
+
+.nav-bar-1 li {
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 5px;
+  font-weight: bold;
+  border-left: 1px solid grey;
+}
+
+.blue-font {
+  color: #18254a;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.para-style {
+  text-align: justify;
+  color: #333;
+  font-size: 14px;
+}
+.footer {
+  background-color: #18254a;
+  color: white;
+}
+nav-item li {
+  color: white;
+}
